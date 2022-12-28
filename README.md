@@ -1,2 +1,2 @@
-# Software for an intelligent autonomous vehicle
+# IOT_SMART_HOME
 HIT course
