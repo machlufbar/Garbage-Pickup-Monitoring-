@@ -1,2 +1,2 @@
-# IOT_COURSE
+# Software for an intelligent autonomous vehicle
 HIT course
