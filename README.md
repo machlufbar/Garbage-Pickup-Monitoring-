@@ -1,2 +1,6 @@
-# The Child monitor system
-This is a project that uses RPI's IR camera, usb mic, near field magnetic detector and long-range ultrasonic sensor with aim to find, recognize and track a child in back seat in the car. When the car is stopped and driver/adults abandoned the child then the system should recognize the event and send alarm messages to predefined destination. Currently under develop.
+# Garbage Pickup Monitoring 
+
+This project is up to solve the Garbage manegmant over a city that need to pickup the all the 
+garbage around it . its will provide a cleaner enviorment , will lower the cost of the truck that 
+goe's to pickup a empty garbage can's, it will also provide a statistic about the city usage 
+and more ! .
